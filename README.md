@@ -3,7 +3,7 @@
 Download http://nshipster.com iOS tutorials as PDF files
 
 
-<b>License</b>
+#License
 
 (c) 2015 Ratan Lal Prasad
 
