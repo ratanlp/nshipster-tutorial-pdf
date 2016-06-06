@@ -1,4 +1,5 @@
-# nshipster-tutorial-pdf
+# NSHIPSTER TUTORIAL DOWNLOADER
+
 Download http://nshipster.com iOS tutorials as PDF files
 
 
